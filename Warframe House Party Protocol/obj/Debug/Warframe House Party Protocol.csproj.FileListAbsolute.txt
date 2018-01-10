@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Warframe House Party Protocol\Warframe House Party Protocol\bin\Debug\Warframe House Party Protocol.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Warframe House Party Protocol\Warframe House Party Protocol\bin\Debug\Warframe House Party Protocol.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Warframe House Party Protocol\Warframe House Party Protocol\bin\Debug\Warframe House Party Protocol.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Warframe House Party Protocol\Warframe House Party Protocol\obj\Debug\Warframe House Party Protocol.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Warframe House Party Protocol\Warframe House Party Protocol\obj\Debug\Warframe_House_Party_Protocol.MainForm.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Warframe House Party Protocol\Warframe House Party Protocol\obj\Debug\Warframe_House_Party_Protocol.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Warframe House Party Protocol\Warframe House Party Protocol\obj\Debug\Warframe House Party Protocol.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Warframe House Party Protocol\Warframe House Party Protocol\obj\Debug\Warframe House Party Protocol.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Warframe House Party Protocol\Warframe House Party Protocol\obj\Debug\Warframe House Party Protocol.pdb
